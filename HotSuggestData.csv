@@ -1605,7 +1605,7 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 2202,1,交通枢纽,Airport/Railway,火车站,Railway Station,海口火车东站,Haikou East Railway Station,HKHCDZ,6733673,19.989941,110.350699,10,6,19.983941,110.344199
 2202,1,交通枢纽,Airport/Railway,火车站,Railway Station,海口火车站,Haikou Railway Station,HKHCZ,6733676,20.034099,110.169512,10,6,20.028099,110.163012
 2301,1,交通枢纽,Airport/Railway,机场,Airport,双流国际机场,Shuangliu International Airport,SLGJJC,6305841,30.58553786,103.9645829,10,6,30.57917693,103.9585232
-2301,1,交通枢纽,Airport/Railway,火车站,Railway Station,成都东站,Chengdu East Station,CDDZ,3199966,30.6983,104.119,125,6,30.6918,104.113
+2301,1,交通枢纽,Airport/Railway,火车站,Railway Station,成都东站,Chengdu East Station,CDDZ,3199966,30.634843,104.148097,125,6,30.63018,104.13934
 2301,1,交通枢纽,Airport/Railway,火车站,Railway Station,成都站,Chengdu Station,CDZ,3205964,30.70357092,104.0799128,112,6,30.69718001,104.0738602
 2301,2,地铁站,Subway Station,1号线,Line 1,世纪城,Shijicheng,SJC,6305967,30.560857,104.075248,1984,6,30.55802796,104.067911
 2301,2,地铁站,Subway Station,1号线,Line 1,人民北路,Renminbeilu,RMBL,6305954,30.69189728,104.0790826,1997,6,30.68531589,104.073086
