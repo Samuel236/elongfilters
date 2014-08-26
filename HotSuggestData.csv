@@ -5115,3 +5115,6 @@
 2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,万宁站,Wanning Station,WNZ,900005116,18.813976,110.387739,10,6
 2202,1,交通枢纽,Airport/Railway,火车站,Railway Station,海口汽车东站,Haikou East,Bus,900005117,20.016167,110.367318,10,6
 2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,神州站,Shenzhou Station,SZZ,900005118,18.730904,110.314469,10,6
+0802,2,地铁站,Subway,Station,2号线,Line,2,白塔河路,BaiTaHeLu,BTHL,6307382,41.71572836,123.4780397,10,6,41.7089,123.472159,,,,
+0802,2,地铁站,Subway,Station,2号线,Line,2,金融中心,JinRongZhongXin,JRZX,6307374,41.81894078,123.4447693,10,6,41.812107,123.4389,,,,
+0802,2,地铁站,Subway,Station,2号线,Line,2,青年大街,QingNianDaJie,QNDJ,6306002,41.797999,123.43993,10,6,41.79234212,123.433381,,,,
