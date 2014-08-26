@@ -1,4 +1,4 @@
-﻿CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,DataNamePy,PropertiesId,Baidu_Lat,Baidu_Lng,HotCount,QueryWeight
+CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,DataNamePy,PropertiesId,Baidu_Lat,Baidu_Lng,HotCount,QueryWeight
 0101,1,交通枢纽,Airport/Railway,机场,Airport,南苑机场,Nanyuan Airport,NYJC,5312593,39.80917121,116.4010557,10,6
 0101,1,交通枢纽,Airport/Railway,机场,Airport,首都国际机场,Capital International Airport,SDGJJC,5714537,40.08153556,116.5980837,10,6
 0101,1,交通枢纽,Airport/Railway,火车站,Railway Station,北京东站,Beijing East Station,BJDZ,5438276,39.9073,116.485,122,6
