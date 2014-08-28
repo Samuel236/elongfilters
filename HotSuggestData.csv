@@ -1563,7 +1563,7 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 2003,2,地铁站,Subway Station,蛇口线,Shekou Line,赤湾,ChiWanZhan,CW,6305925,22.48597329,113.9049148,10,6,22.47931,113.89893
 2003,2,地铁站,Subway Station,蛇口线,Shekou Line,香梅北,XiangMeiBei,XMB,6307299,22.56015856,114.0397426,10,6,22.55398,114.033659
 2003,2,地铁站,Subway Station,蛇口线,Shekou Line,香蜜,XiangMiZhan,XM,6307298,22.55913368,114.0302128,10,6,22.552949,114.024131
-2003,2,地铁站,Subway Station,蛇口线,Shekou Line,黄贝岭,HuangBeiLing,HBL,6306921,22.55175234,114.1406576,10,6,114.134595,
+2003,2,地铁站,Subway Station,蛇口线,Shekou Line,黄贝岭,HuangBeiLing,HBL,6306921,22.55175234,114.1406576,10,6,22.545498,114.134595
 2004,1,交通枢纽,Airport/Railway,机场,Airport,三灶机场,Sanzao Airport,SZJC,6305757,22.013603,113.383488,10,6,22.00684394,113.3775571
 2005,2,地铁站,Subway Station,广佛线,Guang-Fo Line,千灯湖,qiandenghu,QDH,6307224,23.06123369,113.1614043,10,6,23.054975,113.15536
 2005,2,地铁站,Subway Station,广佛线,Guang-Fo Line,南桂路,nanguilu,NGL,6307222,23.04029928,113.160219,10,6,23.034124,113.154159
@@ -5115,3 +5115,14 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,万宁站,Wanning Station,WNZ,900005116,18.813976,110.387739,10,6,,
 2202,1,交通枢纽,Airport/Railway,火车站,Railway Station,海口汽车东站,Haikou East,Bus,900005117,20.016167,110.367318,10,6,,
 2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,神州站,Shenzhou Station,SZZ,900005118,18.730904,110.314469,10,6,,
+2112,1,交通枢纽,Airport/Railway,机场,Airport,百色机场,Baise Airport,BSJC,900002490,23.721469,106.978625,10,6,23.7186,106.9712
+2112,1,交通枢纽,Airport/Railway,火车站,Railway,百色火车站,Baise Railway Station,BSHCZ,900002491,23.891806,106.670606,10,6,23.88696,106.66471
+2107,1,交通枢纽,Airport/Railway,火车站,Railway,贺州火车站,Hezhou Railway Station,HZHCZ,900002492,24.459933,111.545717,10,6,24.45465,111.53968
+2104,1,交通枢纽,Airport/Railway,火车站,Railway,玉林火车站,Yulin Railway Station,YLHCZ,900002493,22.603609,110.162932,10,6,22.59763,110.15682
+2111,1,交通枢纽,Airport/Railway,火车站,Railway,贵港火车站,Guigang Railway Station,GGHCZ,900002494,23.103446,109.619757,10,6,23.09967,109.61308
+1245,71,周边游,Sightseeing,周边游,Sightseeing,普济寺,,,,,,10,6,,
+1245,71,周边游,Sightseeing,周边游,Sightseeing,南海观音,,,,,,10,6,,
+1245,71,周边游,Sightseeing,周边游,Sightseeing,乌石塘,,,,,,10,6,,
+1245,71,周边游,Sightseeing,周边游,Sightseeing,南沙,,,,,,10,6,,
+1245,71,周边游,Sightseeing,周边游,Sightseeing,枸杞岛,,,,,,10,6,,
+1245,71,周边游,Sightseeing,周边游,Sightseeing,西天景区,,,,,,10,6,,
