@@ -5104,14 +5104,14 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 1702,71,周边游,Sightseeing,周边游,Sightseeing,鸡冠洞,JiGuanDong,JGD,900005108,33.790371,111.578088,10,6,,
 1710,71,周边游,Sightseeing,周边游,Sightseeing,云台山,YunTaiShan,YTS,900005109,35.420853,113.385754,10,6,,
 1710,71,周边游,Sightseeing,周边游,Sightseeing,青天河,QingTianHe,QTH,900005110,35.420853,113.385754,10,6,,
-2206,1,交通枢纽,Airport/Railway,火车站,Railway Station,琼海站,Qionghai Station,QHZ,900005111,19.2466,110.497766,10,6,,
-2206,1,交通枢纽,Airport/Railway,火车站,Railway Station,博鳌站,Boao Station,BAZ,900005112,19.142718,110.493054,10,6,,
-2206,1,交通枢纽,Airport/Railway,火车站,Railway Station,琼海汽车站,QionghaiQicheZhan,QHQCZ,900005113,19.246992,110.47351,10,6,,
-2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,万宁汽车站,WanningQicheZhan,WNQCZ,900005114,18.831496,110.401202,10,6,,
-2207,1,交通枢纽,Airport/Railway,火车站,Railway Station,陵水站,Lingshui Station,LSZ,900005115,18.541697,110.039203,10,6,,
-2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,万宁站,Wanning Station,WNZ,900005116,18.813976,110.387739,10,6,,
+2206,1,交通枢纽,Airport/Railway,火车站,Railway Station,琼海站,Qionghai Station,QHZ,900005111,19.2466,110.497766,10,6,19.240001,110.492331
+2206,1,交通枢纽,Airport/Railway,火车站,Railway Station,博鳌站,Boao Station,BAZ,900005112,19.142718,110.493054,10,6,19.136715,110.487095
+2206,1,交通枢纽,Airport/Railway,火车站,Railway Station,琼海汽车站,QionghaiQicheZhan,QHQCZ,900005113,19.246992,110.47351,10,6,19.241384, 110.466971
+2203,1,交通枢纽,Airport/Railway,火车站,RailwayStation,万宁兴隆汽车站,WanningQicheZhan,WNQCZ,900005114,18.831496,110.401202,10,6,18.74604,110.21509
+2207,1,交通枢纽,Airport/Railway,火车站,Railway Station,陵水站,Lingshui Station,LSZ,900005115,18.541697,110.039203,10,6,18.53709,110.03288
+2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,万宁站,Wanning Station,WNZ,900005116,18.813976,110.387739,10,6,18.80794,110.38172
 2202,1,交通枢纽,Airport/Railway,火车站,Railway Station,海口汽车东站,Haikou East Bus Station,Bus,900005117,20.016167,110.367318,10,6,,
-2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,神州站,Shenzhou Station,SZZ,900005118,18.730904,110.314469,10,6,,
+2203,1,交通枢纽,Airport/Railway,火车站,Railway Station,神州站,Shenzhou Station,SZZ,900005118,18.730904,110.314469,10,6,18.72454,110.30797
 2112,1,交通枢纽,Airport/Railway,机场,Airport,百色机场,Baise Airport,BSJC,900002490,23.721469,106.978625,10,6,23.7186,106.9712
 2112,1,交通枢纽,Airport/Railway,火车站,Railway,百色火车站,Baise Railway Station,BSHCZ,900002491,23.891806,106.670606,10,6,23.88696,106.66471
 2107,1,交通枢纽,Airport/Railway,火车站,Railway,贺州火车站,Hezhou Railway Station,HZHCZ,900002492,24.459933,111.545717,10,6,24.45465,111.53968
@@ -5123,7 +5123,7 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 1245,71,周边游,Sightseeing,周边游,Sightseeing,南沙,,,900002498,,,10,6,,
 1245,71,周边游,Sightseeing,周边游,Sightseeing,枸杞岛,,,900002499,,,10,6,,
 1245,71,周边游,Sightseeing,周边游,Sightseeing,西天景区,,,900002500,,,10,6,,
-2003,1,交通枢纽,Airport/Railway,火车站,Railway Station,深圳东站,ShenzhenDongzhan,,900002501,22.607479,114.125235,10,6,,
+2003,1,交通枢纽,Airport/Railway,火车站,Railway Station,深圳东站,ShenzhenDongzhan,,900002501,22.607479,114.125235,10,6,22.60129,114.12033
 2003,71,周边游,Sightseeing,周边游,Sightseeing,东部华侨城,,,900002502,,,10,6,,
 2003,71,周边游,Sightseeing,周边游,Sightseeing,欢乐谷,,,900002503,,,10,6,,
 2003,71,周边游,Sightseeing,周边游,Sightseeing,世界之窗,,,900002504,,,10,6,,
@@ -5135,13 +5135,13 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 2003,71,周边游,Sightseeing,周边游,Sightseeing,青青世界,,,900002510,,,10,6,,
 2003,71,周边游,Sightseeing,周边游,Sightseeing,西涌,,,900002511,,,10,6,,
 2003,71,周边游,Sightseeing,周边游,Sightseeing,大鹏所城,,,900002512,,,10,6,,
-0805,1,交通枢纽,Airport/Railway,火车站,Railway,本溪火车站,Benxi Railway Station,BXHCZ,900002513,41.300994,123.765378,10,6,,
-0820,1,交通枢纽,Airport/Railway,火车站,Railway,葫芦岛站,Huludao Railway Station,,900002514,40.760906,120.873339,10,6,,
-0820,1,交通枢纽,Airport/Railway,火车站,Railway,葫芦岛北站,Huludao North Railway Station,,900002515,40.748992,120.770115,10,6,,
-0816,1,交通枢纽,Airport/Railway,火车站,Railway,朝阳火车站,Chaoyang Railway Station,,900002516,41.585073,120.448088,10,6,,
-0823,1,交通枢纽,Airport/Railway,火车站,Railway,阜新火车站,Fuxin Railway Station,,900002517,41.993569,121.643981,10,6,,
-0823,1,交通枢纽,Airport/Railway,火车站,Railway,阜新客运站,Fuxin Bus Station,,900002518,41.995458,121.640862,10,6,,
-0809,1,交通枢纽,Airport/Railway,火车站,Railway,盘锦火车站,Panjin Railway Station,,900002519,41.203883,122.068504,10,6,,
-0809,1,交通枢纽,Airport/Railway,火车站,Railway,盘锦客运站,Panjin Bus Station,,900002520,41.13088,122.069307,10,6,,
-1401,1,交通枢纽,Airport/Railway,火车站,Railway,厦门火车站,Xiamen Railway Station,,900002521,24.474109,118.122049,10,6,,
-1401,1,交通枢纽,Airport/Railway,火车站,Railway,厦门北火车站,Xiamen North Railway Station,,900002522,24.640314,118.081597,10,6,,
+0805,1,交通枢纽,Airport/Railway,火车站,Railway,本溪火车站,Benxi Railway Station,BXHCZ,900002513,41.300994,123.765378,10,6,41.29532,123.75907
+0820,1,交通枢纽,Airport/Railway,火车站,Railway,葫芦岛站,Huludao Railway Station,,900002514,40.760906,120.873339,10,6,40.75361,120.86872
+0820,1,交通枢纽,Airport/Railway,火车站,Railway,葫芦岛北站,Huludao North Railway Station,,900002515,40.748992,120.770115,10,6,40.74391,120.76352
+0816,1,交通枢纽,Airport/Railway,火车站,Railway,朝阳火车站,Chaoyang Railway Station,,900002516,41.585073,120.448088,10,6,41.57955,120.44129
+0823,1,交通枢纽,Airport/Railway,火车站,Railway,阜新火车站,Fuxin Railway Station,,900002517,41.993569,121.643981,10,6,41.98712,121.63818
+0823,1,交通枢纽,Airport/Railway,火车站,Railway,阜新客运站,Fuxin Bus Station,,900002518,41.995458,121.640862,10,6,41.98972,121.63470
+0809,1,交通枢纽,Airport/Railway,火车站,Railway,盘锦火车站,Panjin Railway Station,,900002519,41.203883,122.068504,10,6,41.19782,122.06196
+0809,1,交通枢纽,Airport/Railway,火车站,Railway,盘锦客运站,Panjin Bus Station,,900002520,41.13088,122.069307,10,6,41.12460,122.06293
+1401,1,交通枢纽,Airport/Railway,火车站,Railway,厦门火车站,Xiamen Railway Station,,900002521,24.474109,118.122049,10,6,24.46754,118.11556
+1401,1,交通枢纽,Airport/Railway,火车站,Railway,厦门北火车站,Xiamen North Railway Station,,900002522,24.640314,118.081597,10,6,24.63631, 118.07421
