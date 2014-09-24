@@ -1124,7 +1124,7 @@ CityId,TypeId,TypeNameCn,TypeNameEn,TagNameCn,TagNameEn,DataNameCn,DataNameEn,Da
 1303,1,交通枢纽,Airport/Railway,机场,Airport,大龙山机场,Dalongshan Airport,DLSJC,3053064,30.58919531,117.0585517,10,6,30.58291312,117.0524869
 1304,1,交通枢纽,Airport/Railway,火车站,Railway Station,芜湖站,Wufu Station,WHZ,6306032,31.35392656,118.3966652,70,6,31.34747607,118.3906631
 1305,1,交通枢纽,Airport/Railway,火车站,Railway Station,蚌埠站,Bengbu Station,BBZ,6306062,32.94980331,117.3832974,129,6,32.94295111,117.3773798
-1306,1,交通枢纽,Airport/Railway,火车站,Railway Station,淮南东站,Huainan East Station,HNDZ,6762762,32.6428,117.019,52,6,32.6368,117.012
+1306,1,交通枢纽,Airport/Railway,火车站,Railway Station,淮南东站,Huainan East Station,HNDZ,6762762,32.65209,117.157357,52,6,32.64604,117.15320
 1306,1,交通枢纽,Airport/Railway,火车站,Railway Station,淮南站,Huainan Station,HNZ,4073491,32.6367,117.026,57,6,32.6305,117.02
 1307,1,交通枢纽,Airport/Railway,火车站,Railway Station,阜阳站,Fuyang Station,FYZ,6564020,32.9199,115.874,67,6,32.9139,115.867
 1318,1,交通枢纽,Airport/Railway,火车站,Railway Station,滁州站,Chuzhou Station,CZZ,4025719,32.31475928,118.3337373,60,6,32.30828897,118.327721
